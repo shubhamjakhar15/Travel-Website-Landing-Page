@@ -1,0 +1,293 @@
+*{
+    background-color: #FFFFFF;
+}
+.header{
+    height: 40px;
+    width: 1160.58px;
+    display: flex;
+}
+.logo{
+    width: 114.91px;
+    height: 33.99px;
+    display: flex;
+    margin-top: 47px;
+    margin-left: 140.92px;
+}
+.navbar{
+    font-weight: 500;
+    font-size: 17px;
+    font-family: "Google Sans Flex";
+    margin-left: 200px;
+}
+.list{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: #212832;
+}
+li{
+    list-style: none;
+     padding-left: 50px;
+}
+.mtop{
+    margin-top: 40px;
+}
+#select{
+    background-color: #FFFFFF;
+    border: none;
+    font-family: "Google Sans Flex";
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button{
+    border-radius: 5px;
+    font-family: "Google Sans Flex";
+    font-size: 16px;
+    width: 102px;
+    height: 40px;
+    font-weight: 500;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    margin-top: 32px;
+}
+.middle{
+    width: 1200.87px;
+    height: 780px;
+    display: flex;
+    margin-left: 140.92px;
+    margin-top: 80px;
+}
+.txt{
+    margin-top: 100px;
+}
+.ladki{
+    width: 783.87px;
+    height: 800px;
+}
+.first{
+    color: #DF6951;
+    font-family: "Google Sans Flex", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.two{
+    color: #181E4B;
+    font-family: "Volkhov", serif;
+    font-weight: 700;
+    font-size: 37px;
+}
+.two h1{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.three{
+    font-family: "Google Sans Flex", sans-serif;
+    color:#5E6282 ;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+}
+.four{
+    width: 379px;
+    height: 60px;
+    display: flex;
+}
+.btn1{
+    background-color: #f1a501;
+    color:#fdf4df ;
+    border-radius: 10px;
+    font-family: "Google Sans Flex", sans-serif;
+    width: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.btn2{
+    width: 52px;
+    height: 52px;
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.btntxt{
+    margin-left: 55px;
+    margin-top: 8px;
+    color: #686D77;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+.cat{
+    font-size: 18px;
+    margin-top: 80px;
+    margin-left: 652px;
+    color: #5E6282;
+}
+.heading{
+    font-family: "Volkhov";
+    color: #14183E;
+    font-weight: 700;
+    font-size: 25px;
+    margin-left: 450px;
+}
+.category{
+    margin-bottom: 220px;
+    padding-left: 30px;
+}
+.flight{
+    padding-left: 30px;
+}
+.box{
+    margin-top: 55px;
+     margin-left: 140.92px;
+}
+.top{
+    font-family: "Volkhov";
+    color: #14183E;
+    font-weight: 700;
+    font-size: 25px;
+    margin-left: 500px;
+}
+.sell{
+    font-size: 18px;
+    margin-top: 80px;
+    margin-left: 652px;
+    color: #5E6282;
+    font-family: "Google Sans Flex";
+}
+.france{
+    display: flex;
+}
+.boxes{
+    width: 314px;
+    height: 457px;
+    border-radius: 24px;
+    box-shadow:  0 10px 20px rgba(0, 0,0, 0.2);
+    margin-left: 130px;
+}
+.rome{
+    color: #5E6282; 
+     font-family: "Google Sans Flex";
+     font-weight: 500;
+     font-size: 18px;
+}
+.dates{
+    color: #5E6282; 
+     font-family: "Google Sans Flex";
+     font-weight: 500;
+     font-size: 16px;
+     margin-left: 10px;
+     margin-top: 5px;
+}
+.five{
+    display: flex;
+    height: 492px;
+    font-family: "Google Sans Flex";
+}
+.five div h1{
+    font-family: "Volkhov";
+    font-weight: 700;
+    font-size: 50px;
+    width: 450px;
+    height: 130px;
+}
+.people{
+    width: 409px;
+    height: 130px;
+    font-family: 'Volkhov';
+    font-weight: 700;
+    font-size: 50px;
+    color: #14183E;
+}
+.red{
+    background-color: #FFFFFF;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    width: 502px;
+    height: 232px;
+    margin-top: 90px;
+    padding-left: 25px;
+    margin-left: 170px;
+}
+.red p{
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Google Sans Flex';
+    color: #5E6282;
+    background-color: #FFFFFF;
+}
+.red h1{
+    font-weight: 600;
+    font-size: 24px;
+    border-radius: 10px;
+    font-family: 'Google Sans Flex';
+    color: #5E6282;
+    background-color: #FFFFFF;
+    padding-top: 140px;
+}
+.lahore{
+    height: 245px !important;
+    width: 504px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+    position: absolute;
+    top: 120px;
+    left: 120px;
+}
+.lahore h1{
+    font-weight: 600;
+    font-size: 24px;
+    font-family: 'Google Sans Flex';
+    color: #5E6282;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+.lah{
+     font-weight: 500;
+    font-size: 18px;
+    font-family: 'Google Sans Flex';
+    color: #5E6282;
+    padding-left: 25px;
+}
+.seven{
+    padding-top: 100px; 
+    padding-left: 190px;
+}
+.eight{
+    height: 407px;
+    width: 1100px;
+    background-color: #f9f7fe;
+    border-radius: 70px 10px 10px 10px;
+    position: relative;
+    margin-left: 190px;
+}
+.eight p{
+    font-weight: 600;
+    font-size: 33px;
+    line-height: 50px;
+    font-family: 'Google Sans Flex';
+    color: #5E6282;
+    background-color: #f9f7fe;
+    width: 881px;
+    padding-top: 50px;
+    margin-left: 130px;
+}
+.teen{
+    color: #5E6282;
+    font-weight: 400;
+    font-size: 18px; 
+    font-family: 'Google Sans Flex';
+}
+.ten{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Google Sans Flex';
+    color: #5E6282;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
